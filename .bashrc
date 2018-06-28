@@ -27,12 +27,6 @@ export VCS_ARCH_OVERRRIDE="linux"
 export PATH="/home/eda/Verdi3_L-2016.06-1/bin":$PATH
 
 
-##############################################
-# Verilator
-##############################################
-export PATH="/home/eda/verilator/bin":$PATH
-export PKG_CONFIG_PATH="/home/eda/verilator/share/pkgconfig"$PKG_CONFIG_PATH
-
 
 
 
